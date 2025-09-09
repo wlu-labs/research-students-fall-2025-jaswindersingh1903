@@ -1,11 +1,10 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** meeting_date, meeting_time  
-## Action Items due be due_date and allocation to responsible_name.
+Sep 9, 2025: 4:30 pm
 
-[X] Action Item 1
+[X] Read Papers about demand forecasting
 
-[X] Action Item 2:  
+[X] Setup your desktop environment
 
 ## Other Notes & Information
 N/A
